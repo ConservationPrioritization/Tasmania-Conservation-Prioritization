@@ -27,8 +27,7 @@ We provide the supplementary plots of the case study at Tasmania Island for our 
    </tr> 
 </table>
 
-<p align="center">
-<table>
+<table align="center">
    <tr>
      <td>Forward-Greedy Method</td>
      <td>Backward-Greedy Method</td>
@@ -38,4 +37,3 @@ We provide the supplementary plots of the case study at Tasmania Island for our 
       <td><img src="https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/BackGreedyAnimation.gif" width = 300px></td>
   </tr>
 </table>
-</p>
