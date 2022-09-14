@@ -25,6 +25,10 @@ We provide the supplementary plots of the case study at Tasmania Island for our 
     <td><img src = "https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/OptPrioAnimation.gif" width = 300px></td>
     <td><img src = "https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/HeuPrioAnimation.gif" width = 300px></td>
    </tr> 
+</table>
+
+
+<table>
    <tr>
      <td>Forward-Greedy Method</td>
      <td>Backward-Greedy Method</td>
