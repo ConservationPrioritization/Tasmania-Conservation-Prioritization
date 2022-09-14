@@ -12,12 +12,15 @@ We provide the supplementary plots of the case study at Tasmania Island for our 
 
 <table>
   <tr>
-    <td colspan = "2">Scenario-Wise Optimization Method</td>
-    <td colspan = "2">Optimal Prioritization Method</td>
-    <td colspan = "2">Heuristic Prioritization Method</td>
+    <td>Scenario-Wise Optimization Method</td>
+    <td>Optimal Prioritization Method</td>
+    <td>Heuristic Prioritization Method</td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td colspan="3">Forward-Greedy Method</td>
-    <td colspan="3">Backward-Greedy Method</td>
+    <td>Forward-Greedy Method</td>
+    <td>Backward-Greedy Method</td>
   </tr>
 </table>
