@@ -9,7 +9,7 @@ wdgwergqwegqwegq
 
 
 | Forward-Greedy Method   | Backward-Greedy Method      |
-|  ------------  |  -------------  |
+|  :--:  |  :--:  |
 |<img src = "https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/ForGreedyAnimation.gif" width = "300" />|<img src = "https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/BackGreedyAnimation.gif" width = "300" />|
 
 
