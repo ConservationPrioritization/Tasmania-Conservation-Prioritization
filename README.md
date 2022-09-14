@@ -27,7 +27,7 @@ We provide the supplementary plots of the case study at Tasmania Island for our 
    </tr> 
 </table>
 
-
+<p align="center"></p>
 <table>
    <tr>
      <td>Forward-Greedy Method</td>
