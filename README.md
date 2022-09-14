@@ -16,6 +16,11 @@ We provide the supplementary plots of the case study at Tasmania Island for our 
     <td>Optimal Prioritization Method</td>
     <td>Heuristic Prioritization Method</td>
   </tr>
+  <tr>
+    <img src = "https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/ScenOptAnimation.gif" width = "300" />
+    <img src = "https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/OptPrioAnimation.gif" width = "300" />
+    <img src = "https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/HeuPrioAnimation.gif" width = "300" />
+  <tr>
 </table>
 
 <table>
