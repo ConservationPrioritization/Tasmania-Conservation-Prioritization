@@ -1,5 +1,5 @@
 # Tasmania-Conservation-Prioritization
-We provide the supplementary plots of the case study at Tasmania Island for our paper titled "Prioritization via Parametric Optimization". The data for this case study is retrieved from [I'm an inline-style link with title](https://cran.r-project.org/web/packages/prioritizr/vignettes/tasmania.html "Google's Homepage")
+We provide the supplementary plots of the case study at Tasmania Island for our paper titled "Prioritization via Parametric Optimization". The data for this case study is retrieved from [R package prioritizr](https://cran.r-project.org/web/packages/prioritizr/vignettes/tasmania.html).
 
 
 
