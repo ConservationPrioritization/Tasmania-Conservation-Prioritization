@@ -9,8 +9,8 @@ The Tasmania Island is divided into 1130 zones, and the cost of protecting each 
      <td align="center">Species Distribution</td>
    </tr>
    <tr>
-      <td><img src="https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/Cite_Cost.png" width = 300px></td>
-      <td><img src="https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/Feature_Plot.png" width = 300px></td>
+      <td><img src="https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/Cite_Cost.png" width = 400px></td>
+      <td><img src="https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/Feature_Plot.png" width = 400px></td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@ Among the thousand zones, 257 lock-in zones that have already been protected, an
      <td align="center">Relative Penalty</td>
    </tr>
    <tr>
-      <td><img src="https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/Relative_Cost.png" width = 300px></td>
+      <td><img src="https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/Relative_Cost.png" width = 500px></td>
   </tr>
 </table>
 
