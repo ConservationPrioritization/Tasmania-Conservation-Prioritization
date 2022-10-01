@@ -28,7 +28,7 @@ Among the thousand zones, 257 lock-in zones that have already been protected, an
 We plot below the evolution of protected sites when budget increases for all methods. The lock-in zones are marked by color index 2, the protected zones are marked by color index 1 and the unprotected zones are marked by color index 0. (Please refresh the page if the gifs don't play in sync.)
 
 
-<table>
+<table align = "center">
   <tr>
     <td align="center">Scenario-Wise Optimization Method</td>
     <td align="center">Optimal Prioritization Method</td>
