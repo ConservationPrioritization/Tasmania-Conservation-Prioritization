@@ -32,23 +32,21 @@ We plot below the evolution of protected sites when budget increases for all met
   <tr>
     <td align="center">Scenario-Wise Optimization Method</td>
     <td align="center">Optimal Prioritization Method</td>
-    <td align="center">Heuristic Prioritization Method</td>
   </tr>
   <tr>
     <td><img src = "https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/ScenOptAnimation.gif" width = 300px></td>
     <td><img src = "https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/OptPrioAnimation.gif" width = 300px></td>
-    <td><img src = "https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/HeuPrioAnimation.gif" width = 300px></td>
    </tr> 
 </table>
 
 <table align="center">
    <tr>
-     <td align="center">Forward-Greedy Method</td>
-     <td align="center">Backward-Greedy Method</td>
+     <td align="center">Greedy Method</td>
+      <td align="center">Heuristic Prioritization Method</td>
    </tr>
    <tr>
       <td><img src="https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/ForGreedyAnimation.gif" width = 300px></td>
-      <td><img src="https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/BackGreedyAnimation.gif" width = 300px></td>
+      <td><img src = "https://github.com/ConservationPrioritization/Tasmania-Conservation-Prioritization/blob/main/HeuPrioAnimation.gif" width = 300px></td>
   </tr>
 </table>
 
