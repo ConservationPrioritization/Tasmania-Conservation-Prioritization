@@ -14,7 +14,7 @@ The Tasmania Island is divided into 1130 zones, and the cost of protecting each 
   </tr>
 </table>
 
-Among the thousand zones, 257 lock-in zones that have already been protected, and we aim to protect more zones under a progressively revealed budget uniformly ranges from 8700 to 9600. We implement scenario-wise optimization method, optimal prioritization method, heuristic prioritization method, forward-greedy method and backward-greedy method on this problem，and visulize the relative penalty of disconnectivity and shortfall for the later four methods over the first method as follows.
+Among the thousand zones, 257 lock-in zones that have already been protected, and we aim to protect more zones under a progressively revealed budget uniformly ranges from 8700 to 9600. We implement scenario-wise optimization method, optimal prioritization method, heuristic prioritization method and greedy method on this problem，and visulize the relative penalty of disconnectivity and shortfall for the later three methods over the first method as follows.
 
 <table align="center">
    <tr>
@@ -50,4 +50,4 @@ We plot below the evolution of protected sites when budget increases for all met
   </tr>
 </table>
 
-Note that the solution from scenario-wise optimization method is not nested, which indicates the solution is not suitable for implementation under the progressively revealed budget enviroment. The optimal prioritization method, produce a nested solution and at the same time, always has a satisfying performance in every scenario. In constrast, it is hard for the greedy methods to balance the trade-off between the penalty of disconnectivity (require the protected zones to be connected) and shortfall to the protection target of all species (require the protected zones to be scattered). We investigate the cost component of disconnectivity and shortfall in the objective function, and find that our prioritization method outperforms the forward-greedy method regarding both penalties. The backward-greed method provides a more concentrated solution, showing a smaller penalty of disconnectivity compared to our method, but at the price of significantly higher shortfall cost. 
+Note that the solution from scenario-wise optimization method is not nested, which indicates the solution is not suitable for implementation under the progressively revealed budget enviroment. The optimal prioritization method, produce a nested solution and at the same time, always has a satisfying performance in every scenario. In constrast, it is hard for the greedy methods to balance the trade-off between the penalty of disconnectivity (require the protected zones to be connected) and shortfall to the protection target of all species (require the protected zones to be scattered). We investigate the cost component of disconnectivity and shortfall in the objective function, and find that our prioritization method outperforms the greedy method regarding both penalties.  
